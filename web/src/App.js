@@ -14,7 +14,12 @@ class App extends Component {
           </p>
         </header>
         <p className="App-body">
-            We tokenize digital assets <br/> and distribute it securely on <br/>Stellar and IPFS Blockchain<br/> <br/><a href="mailto:hi@octofox.io">hi@octofox.io</a> to get intouch
+            We tokenize digital assets
+            <br/> and distribute it securely on
+            <br/>Stellar and IPFS Blockchain
+            <br/>
+            <br/>Email <a href="mailto:katopz@octofox.io">katopz@octofox.io</a>
+            <br/>Call +66 813446361
         </p>
         </div>
       </div>
